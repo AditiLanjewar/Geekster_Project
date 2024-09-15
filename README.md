@@ -2,10 +2,10 @@
 
 [link](https://aditilanjewar.github.io/Geekster_Project/)
 
-[header](./https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header.png)
-[1](./https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(51).png)
-[2](./https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(52).png)
-[3](./https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(53).png)
+[header](../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header.png)
+[1](../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(51).png)
+[2](../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(52).png)
+[3](../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(53).png)
 Enclosed within a "header" element:
 
 A navigation bar is crafted within the "navbar" class, featuring various divisions:
@@ -23,9 +23,9 @@ The "links" division presents an unordered list with links for "Today's Deals," 
 The "deals" division showcases a link to "Shop deals in Electronics."
 This HTML code establishes a comprehensive header structure encompassing various navigation elements, a logo, search functionality, account-related links, and a banner section containing menu options and pertinent links. This setup is designed to enhance user experience and facilitate navigation on the webpage.
 
-[1](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(54).png)
-[2](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(55).png)
-[3](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(56).png)
+[1](.../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(54).png)
+[2](.../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(55).png)
+[3](../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(56).png)
 [4](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(57).png)
 [5](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(58).png)
 
