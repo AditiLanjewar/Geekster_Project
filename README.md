@@ -2,10 +2,10 @@
 
 [link](https://aditilanjewar.github.io/Geekster_Project/)
 
-[header](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header.png)
-[1](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(51).png)
-[2](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(52).png)
-[3](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(53).png)
+[header](./https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header.png)
+[1](./https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(51).png)
+[2](./https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(52).png)
+[3](./https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(53).png)
 Enclosed within a "header" element:
 
 A navigation bar is crafted within the "navbar" class, featuring various divisions:
