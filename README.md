@@ -1,7 +1,7 @@
 #Amazon_Clone_by_Geekster
 
 [link](https://aditilanjewar.github.io/Geekster_Project/)
-
+[](../header.png)
 [header](../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header.png)
 [1](../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(51).png)
 [2](../https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(52).png)
