@@ -1,11 +1,11 @@
 #Amazon_Clone_by_Geekster
 
-(https://aditilanjewar.github.io/Geekster_Project/)
+https://aditilanjewar.github.io/Geekster_Project/
 
-[header](https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header.png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(51).png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(52).png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(53).png)
+[header]https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header.png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(51).png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(52).png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/Screenshot%20(53).png
 Enclosed within a "header" element:
 
 A navigation bar is crafted within the "navbar" class, featuring various divisions:
@@ -23,11 +23,11 @@ The "links" division presents an unordered list with links for "Today's Deals," 
 The "deals" division showcases a link to "Shop deals in Electronics."
 This HTML code establishes a comprehensive header structure encompassing various navigation elements, a logo, search functionality, account-related links, and a banner section containing menu options and pertinent links. This setup is designed to enhance user experience and facilitate navigation on the webpage.
 
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(54).png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(55).png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(56).png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(57).png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(58).png)
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(54).png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(55).png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(56).png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(57).png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/header/header_css/Screenshot%20(58).png
 
 The header element:
 
@@ -121,12 +121,12 @@ Sets font size to 0.9rem and font weight to 500.
 Sets white-space to nowrap to prevent text wrapping.
 These styles contribute to the appearance and layout of various elements within the header section of the webpage. The use of flex layout and consistent styling enhances the visual design and user experience.
 
-[hero](https://github.com/AditiLanjewar/Geekster_Project/blob/main/herosection/15.09.2024_18.59.21_REC.png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/herosection/hero.png)
+[hero]https://github.com/AditiLanjewar/Geekster_Project/blob/main/herosection/15.09.2024_18.59.21_REC.png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/herosection/hero.png
 
 The given HTML code represents a "section" element bearing the class "hero-section." This section, devoid of immediate content, serves as a structural component for webpage organization. It can function as a placeholder for upcoming content or dynamic elements, often incorporated using CSS 
 
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/herosection/hersection_css/15.09.2024_19.00.16_REC.png)
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/herosection/hersection_css/15.09.2024_19.00.16_REC.png
 
 The .hero-section class:
 Sets the height of the section to 400 pixels.
@@ -134,8 +134,8 @@ Uses a background image specified by the URL "./hero.jpeg".
 Positions the background image at the center of the section.
 Adjusts the size of the background image to cover the entire section, ensuring it fills the available space while maintaining its aspect ratio.
 
-[cards](https://github.com/AditiLanjewar/Geekster_Project/blob/main/shop_section/15.09.2024_19.01.19_REC.png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/shop_section/Screenshot%20(59).png)
+[cards]https://github.com/AditiLanjewar/Geekster_Project/blob/main/shop_section/15.09.2024_19.01.19_REC.png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/shop_section/Screenshot%20(59).png
 
 The provided HTML code defines a "section" with the class "shop-section." This section is designed for showcasing various product categories through a visually appealing grid layout. The "shop-images" division contains a set of "shop-link" divisions, each representing a product category. These divisions feature animation effects using the AOS (Animate On Scroll) library, causing a flip-left animation with varying durations as the user scrolls.
 
@@ -146,8 +146,8 @@ An image ("img-1.png," "img-2.png," etc.) corresponds to the respective product.
 An anchor ("a") tag labeled "Shop now" links to the relevant shopping page.
 The layout is geared towards engaging users with a selection of shopping options. Each product category is visually represented, with the AOS animation adding an interactive element. This HTML structure creates a dynamic and visually appealing section for highlighting different product categories and encouraging users to explore further.
 
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/shop_section/shop_css/Screenshot%20(60).png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/shop_section/shop_css/Screenshot%20(61).png)
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/shop_section/shop_css/Screenshot%20(60).png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/shop_section/shop_css/Screenshot%20(61).png
 
 The .shop-section class:
 
@@ -196,9 +196,9 @@ Hover state for .shop-link a:
 Changes the text color to #c7511f and adds an underline to the text on hover.
 These styles contribute to the appearance and layout of a shop section on the webpage, with responsive grid-based images and interactive effects on hover for a visually appealing and user-friendly design.
 
-[footer](https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/15.09.2024_19.04.53_REC.png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/Screenshot%20(62).png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/Screenshot%20(63).png)
+[footer]https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/15.09.2024_19.04.53_REC.png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/Screenshot%20(62).png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/Screenshot%20(63).png
 
 Within the "footer" section:
 
@@ -216,8 +216,8 @@ The fourth "ul" section offers links to assist users with various tasks, under t
 
 Overall, this HTML code constructs a comprehensive footer section containing various links for navigation, social media engagement, and accessing important resources related to Amazon services. The structured layout enhances user experience by providing organized access to relevant information and options.
 
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/footer_css/Screenshot%20(64).png)
-(https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/footer_css/Screenshot%20(65).png)
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/footer_css/Screenshot%20(64).png
+https://github.com/AditiLanjewar/Geekster_Project/blob/main/footer/footer_css/Screenshot%20(65).png
 The .footer-title class:
 
 Uses flex layout to center items both vertically and horizontally.
